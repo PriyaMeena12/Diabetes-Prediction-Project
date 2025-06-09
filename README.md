@@ -1,4 +1,7 @@
-# Diabetes-Prediction-Project
+# Diabetes-Prediction-Project 
+
+ #  Edunet Foundation internship
+
 
 # 🩺 Diabetes Prediction Web App
 
