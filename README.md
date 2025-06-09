@@ -72,7 +72,13 @@ This is a machine learning-based web application that predicts whether a person 
 
 
 
+
+
+
 Priya Meena
+
 GitHub: https://github.com/PriyaMeena12
+
+
 LinkedIn: https://www.linkedin.com/in/priya-meena-736a57311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
