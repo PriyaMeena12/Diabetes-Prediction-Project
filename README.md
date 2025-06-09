@@ -8,7 +8,11 @@ This is a machine learning-based web application that predicts whether a person 
 
 ## 🚀 Demo
 
- ![Screenshot (250)](https://github.com/user-attachments/assets/29855967-7fed-418b-84e9-aacb8288009e)
+ ![Screenshot (254)](https://github.com/user-attachments/assets/1e73320a-5aff-41b6-a400-cd40c0576cc3)
+ 
+![Screenshot (255)](https://github.com/user-attachments/assets/1cb0996c-b732-47bd-a90d-030031d7ae7c)
+
+
 
 
 
